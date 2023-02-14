@@ -1,0 +1,54 @@
+.min-h-screen {
+  min-height: 100vh;
+}
+
+.bg-red {
+  background-color: rgb(221, 11, 11);
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.item-center {
+  align-items: center;
+}
+
+.header-height {
+  height: 65vh;
+}
+
+.logo {
+  width: 187px;
+  height: 153px;
+  margin-left: 40px;
+}
+
+.btn{
+  font-family: 'lora', serif;
+  font-size: 18px;
+  font-weight: bolder;
+  background: rgba(0,0,0,0);
+  border: 2px solid rgb(255, 255, 255)     ;
+  border-radius: 32px;
+  padding: 10px 20px;
+  margin: 0 10px;
+  color: rgb(255, 255, 255);
+  -webkit-border-radius: 32px;
+  -moz-border-radius: 32px;
+  -ms-border-radius: 32px;
+  -o-border-radius: 32px;
+}
