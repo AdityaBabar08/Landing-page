@@ -61,6 +61,7 @@
 .left {
   height: 679px;
   width: 85vh;
+  margin-left: 9rem;
 }
 
 .flex-col {
@@ -68,10 +69,10 @@
 }
 
 .heading {
-  height: 45%;
+  height: 33%;
   width: 100%;
   font-family: "lora", serif;
-  font-size: 48px;
+  font-size: 4rem;
   font-weight: bolder;
   color: rgb(255, 255, 255);
   text-align: center;
