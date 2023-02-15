@@ -28,7 +28,7 @@
 }
 
 .header-height {
-  height: 65vh;
+  height: 100vh;
 }
 
 .logo {
@@ -42,7 +42,7 @@
   font-size: 18px;
   font-weight: bolder;
   background: rgba(0,0,0,0);
-  border: 2px solid rgb(255, 255, 255)     ;
+  border: 2px solid white;
   border-radius: 32px;
   padding: 10px 20px;
   margin: 0 10px;
