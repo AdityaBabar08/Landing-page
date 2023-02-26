@@ -109,3 +109,10 @@ px-1{
   font-weight: bolder;
   color: rgb(0, 0, 0);
 }
+
+.section3 h1{
+  font-family: "lora", serif;
+  font-size: 4rem;
+  font-weight: bolder;
+  color: rgb(0, 0, 0);
+}

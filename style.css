@@ -44,6 +44,14 @@
 
 .section2{
   height : 100vh;
+  padding-left: 400px;
+  padding-right: 400px;
+}
+
+.section3{
+  height : 100vh;
+  padding-left: 400px;
+  padding-right: 400px;
 }
 
 .box{
