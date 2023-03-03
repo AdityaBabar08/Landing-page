@@ -51,8 +51,7 @@
 
 .section3{
   height : 100vh;
-  padding-left: 400px;
-  padding-right: 400px;
+  padding: 5% 5%;
 }
 
 .box{
@@ -74,4 +73,27 @@
 
 .box ul li{
   margin: 12px 22px;
+}
+
+.cardContainer{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  height: 50vh;
+  gap: 10px;
+}
+
+.imgCard{
+  padding: 10px 10px 10px 10px;
+  height: 100%;
+  width: 500px;
+  border: 2px solid black;
+  border-radius: 15px;
+}
+
+.imgCard img{
+  width: 100%;
+  height: 70%;
+  object-fit: cover;
+  border-radius: 15px;
 }
